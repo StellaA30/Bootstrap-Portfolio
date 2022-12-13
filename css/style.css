@@ -1,0 +1,43 @@
+body {
+    font-family: 'Lora', serif;
+    margin: 0px;
+  }
+
+  header h1{
+  text-align: center;
+  }
+
+  /* .customNav {
+    position: fixed;
+    width: 100%;
+    background-color: black;
+  } */
+
+
+cards-border{
+    border: 2px 2px 2px 2px solid darkgreen;
+}
+.form{
+    background-color: lightblue;
+    border: 2px solid darkblue;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Jumbotron  */
+.jumbotron-background {
+    background-image: url("../images/background1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+  }
+/* Jumbotron copy */
+
+p{
+    text-align: center;
+}
+
+.card-border{
+    border: 2px solid darkgreen;
+}
